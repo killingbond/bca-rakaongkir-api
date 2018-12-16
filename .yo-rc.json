@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.cus.jastip.bca"
+    },
+    "jhipsterVersion": "4.14.0",
+    "baseName": "BcaApp",
+    "packageName": "com.cus.jastip.bca",
+    "packageFolder": "com/cus/jastip/bca",
+    "serverPort": "8103",
+    "authenticationType": "uaa",
+    "uaaBaseName": "UaaApp",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSocialSignIn": false,
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "a2dd7f53114665626cc28ada0fb9ff56763c8524",
+    "enableTranslation": false,
+    "applicationType": "microservice",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "clientPackageManager": "yarn",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
